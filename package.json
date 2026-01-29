@@ -1,7 +1,7 @@
 {
   "name": "ai-social",
   "version": "1.0.0",
-  "description": "Turn blog posts and READMEs into social media posts",
+  "description": "AI-powered social media content - Twitter threads and LinkedIn posts with GPT",
   "main": "dist/index.js",
   "bin": {
     "ai-social": "dist/cli.js"
@@ -10,11 +10,21 @@
     "build": "tsc"
   },
   "keywords": [
+    "ai",
+    "openai",
+    "gpt",
     "social-media",
     "twitter",
     "linkedin",
     "content",
-    "cli"
+    "marketing",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "posts",
+    "threads"
   ],
   "license": "MIT",
   "dependencies": {
