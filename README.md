@@ -1,5 +1,10 @@
 # ai-social
 
+[![npm version](https://img.shields.io/npm/v/ai-social.svg)](https://www.npmjs.com/package/ai-social)
+[![npm downloads](https://img.shields.io/npm/dm/ai-social.svg)](https://www.npmjs.com/package/ai-social)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 You wrote a great blog post. Now you need to share it on Twitter, LinkedIn, and Reddit. Each platform wants a different format and tone. This handles that for you.
 
 ## Install
