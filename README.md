@@ -1,56 +1,125 @@
-# ai-social
+## 📄 License
 
-[![npm version](https://img.shields.io/npm/v/ai-social.svg)](https://www.npmjs.com/package/ai-social)
-[![npm downloads](https://img.shields.io/npm/dm/ai-social.svg)](https://www.npmjs.com/package/ai-social)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-social)](https://github.com/lxgic-studios/ai-social/stargazers)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+MIT License - see [LICENSE](LICENSE) file for details.
+## 🏷️ Badges
 
+![npm](https://img.shields.io/npm/v/ai-social)
+![Node.js](https://img.shields.io/badge/node-%3E%3D16.0.0-brightgreen)
+![License](https://img.shields.io/npm/l/ai-social)
+![TypeScript](https://img.shields.io/badge/typescript-%3E%3D4.0-blue)
 
+# Social media integration and sharing utilities
 
-You wrote a great blog post. Now you need to share it on Twitter, LinkedIn, and Reddit. Each platform wants a different format and tone. This handles that for you.
-
-## Install
-
-```bash
-npm install -g ai-social
-```
-
+Social media integration toolkit. Connects to platforms with authentication and sharing.
 ## Usage
 
-```bash
-npx ai-social README.md --platform twitter
-npx ai-social blog-post.md --platform linkedin
-npx ai-social announcement.md --platform all
+```javascript
+// Import the package
+const social = require('ai-social');
+
+// Basic usage example
+social.main();
 ```
 
-## Setup
+## Examples
+
+See the `examples/` directory for more detailed usage examples.
+
+## Installation
 
 ```bash
-export OPENAI_API_KEY=sk-...
+npm install ai-social
 ```
 
-## Options
+[![npm version](https://badge.fury.io/js/ai-social.svg)](https://badge.fury.io/js/ai-social)
 
-- `-p, --platform <platform>` - Which platform (twitter, linkedin, reddit, all). Default: all
 
-## What you get
+[![n
 
-Each platform gets the right treatment:
 
-- **Twitter** - Punchy, under 280 chars, relevant hashtags
-- **LinkedIn** - Professional with line breaks and a CTA
-- **Reddit** - Genuine, not salesy, with a proper title
+🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)
 
-## License
+ like this? We have 100+ on our  [github.com/lxgicstudios](https://github.com/lxgicstudios)
 
-MIT
+
+🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)
+
+ like this? We have 100+ on our  github.com/lxgicstudios
+
+
+🔗  https://github.com/lxgicstudios ·  https://x.com/lxgicstudios
+
+ like this? We have 100+ on our  github.com/lxgicstudios
+
+
+🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)
+
+ like this? We have 100+ on our  [github.com/lxgicstudios](https://github.com/lxgicstudios)
+
+
+
+
+
+
+ [github.com/LXGIC-Studios](https://github.com/lxgicstudios)
+
+
+- [npm Advanced SEO Guide](https://github.com/lxgicstudios/npm-seo-guide) - npm package optimization
+- [AI Search Optimization](https://github.com/lxgicstudios/ai-seo-guide) - AI-powered SEO strategies
+
+## 🚀 Built with ❤️ by LXGIC Studios
+
+> This tool is part of the [lxgic studios](https://github.com/lxgicstudios) collection of AI-powered developer tools. We specialize in creating intelligent automation solutions that help developers build faster, smarter, and more efficiently.
+
+
+**Discover more tools:** [lxgic studios GitHub](https://github.com/lxgicstudios)  
+**Follow us on ** [@lxgicstudios](https://twitter.com/lxgicstudios)  
+**Join our community:** [Discord Server](https://discord.gg/lxgicstudios)  
+
+## 📄 License
+
+MIT © 2025 LXGIC Studios. Built with ⚡ and AI.
+
+## 🤝 Contributing
+
+We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+
+
+<div align="center">
+  <p>
+    <a href="https://github.com/lxgicstudios/sponsor">
+      <img src="https://img.shields.io/badge/-Sponsor%20Us-%23EA4AAA?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor LXGIC Studios">
+    </a>
+    <a href="https://twitter.com/lxgicstudios">
+      <img src="https://img.shields.io/badge/-Follow%20Us-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow LXGIC Studios">
+    </a>
+    <a href="https://discord.gg/lxgicstudios">
+      <img src="https://img.shields.io/badge/-Join%20Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord">
+    </a>
+  </p>
+</div>
+
+---
+
+Built by [LXGIC Studios](https://github.com/lxgicstudios)
+
+🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)
+
+💡 Want more free tools like this? We have 100+ on our GitHub: [github.com/lxgicstudios](https://github.com/lxgicstudios)
 
 
 ---
 
-Built by [LXGIC Studios](https://github.com/LXGIC-Studios)
+**Built by [LXGIC Studios](https://lxgicstudios.com)**
 
 🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)
 
-💡 Want more free tools like this? We have 100+ on our GitHub: [github.com/lxgicstudios](https://github.com/lxgicstudios)
+💡 Want more free tools like this? We have 100+ on our GitHub: github.com/LXGIC-Studios
+
+---
+
+**Built by [LXGIC Studios](https://lxgicstudios.com)**
+
+🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)
+
+💡 Want more free tools like this? We have 100+ on our GitHub: github.com/LXGIC-Studios
